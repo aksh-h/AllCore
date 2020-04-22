@@ -2,8 +2,9 @@
 
 ## Add the log4net.config file
 
-> more details ![here](https://github.com/huorswords/Microsoft.Extensions.Logging.Log4Net.AspNetCore/edit/develop/doc/CONFIG.md)
- Here you will found an example of how your `log4net.config` file should look like.
+> more details [here](https://github.com/huorswords/Microsoft.Extensions.Logging.Log4Net.AspNetCore)
+
+> Here you will found an example of how your `log4net.config` file should look like.
 
 ```xml
 <?xml version="1.0" encoding="utf-8" ?>
